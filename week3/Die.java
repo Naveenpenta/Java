@@ -29,6 +29,7 @@ public class DieRoll {
         System.out.println("two Die rolled"+(i+1));
     }
     System.out.println("Successful attempts are "+count);
+    // out.println("");
   }     
 }
 
